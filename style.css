@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter',sans-serif;
+}
+
+.semiRead {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.propaganda {
+    background-color: #8635FD;
+    display: flex;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.menu {
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+.logo {
+    margin-left: 1rem;
+}
+
+.rosa {
+    max-width: 200px;
+    display: flex;
+    border-radius:20px; 
+    margin-top: 2rem;
+    margin-left: 1rem;;
+    color: #8635FD;
+    background-color: rgba(133, 53, 253, 0.08);
+}
+.título h1{
+    font-size: 36px
+    
+}
