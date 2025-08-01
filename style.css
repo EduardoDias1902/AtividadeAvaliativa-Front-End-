@@ -15,6 +15,7 @@
     display: flex;
     margin-bottom: 1rem;
     color: white;
+   text-align: center;
 }
 
 .menu {
@@ -24,9 +25,11 @@
 
 .logo {
     margin-left: 1rem;
+    margin-bottom: 2rem;
 }
 
 .rosa {
+    padding: 5px 8px 5px 8px;
     max-width: 200px;
     display: flex;
     border-radius:20px; 
@@ -36,6 +39,22 @@
     background-color: rgba(133, 53, 253, 0.08);
 }
 .título h1{
-    font-size: 36px
+    margin-left:1rem;
+    margin-top: 1rem;
+    font-size: 36px 
+}
+.subtítulo{
+    display:flex
     
+}
+.subtítulo img{
+    height: 50px;
+    width: 80px;
+margin-left:3.5rem;
+    margin-top: 0.8rem;
+    font-size: 36px 
+}
+.subtítulo h3{
+    color: gray;
+    margin-left: 0.8rem;
 }
