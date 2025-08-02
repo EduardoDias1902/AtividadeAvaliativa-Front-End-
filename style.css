@@ -48,13 +48,45 @@
     
 }
 .subtítulo img{
-    height: 50px;
-    width: 80px;
-margin-left:3.5rem;
+    height: 40px;
+    
+    margin-left:3.5rem;
     margin-top: 0.8rem;
     font-size: 36px 
 }
 .subtítulo h3{
     color: gray;
     margin-left: 0.8rem;
+    font-size: 1rem;
+    width: 185px;
+}
+.ComeçarEmail{
+   text-align: center;
+    background-color: #8635FD;
+    color: white;
+    max-width: 200px;
+    border-radius: 30px;
+    padding: 10px 25px 10px 25px;
+    margin-right: 18px;
+    font-size: 1rem;
+    
+}
+.BarraEmail{
+    justify-content: space-between;
+    display: flex;
+     background-color: #FAFBFA;
+        max-width: 400px;
+        border-radius: 30px;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin-top: 2rem;
+}
+.EntrarEmail{
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: 1rem;
+}
+.JáTemConta{
+    display: flex;
+    font-size: 1rem;
 }
