@@ -139,8 +139,9 @@
       border-radius: 20px;
       padding: 20px;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-      text-align: center;
+      
       margin-top: 1rem;
+      margin-left: 1.2rem
     }
 
     .chart-container {
@@ -184,26 +185,27 @@
       width: 300px;
       background: linear-gradient(to bottom, #f7f8fc, #ffffff);
       border: 1px solid #b9ceff;
-      border-radius: 10px;
       padding: 20px;
-      text-align: center;
+
+      margin-left: 1.2rem;
+      margin-top: 1rem;
     }
 
     .testimonial-card h2 {
-      font-size: 20px;
+      font-size: 32px;
       font-weight: bold;
       margin-bottom: 8px;
     }
 
     .testimonial-card p.subtitle {
-      font-size: 13px;
+      font-size: 16px;
       color: #555;
       margin-bottom: 20px;
     }
 
-    .user-img {
-      width: 120px;
-      height: 120px;
+    .FotoUsuario {
+      width: 300px;
+      height: 300px;
       object-fit: cover;
       border-radius: 50%;
       margin-bottom: 15px;
@@ -211,7 +213,7 @@
 
     .stars {
       color: #f4c150;
-      font-size: 18px;
+      font-size: 35px;
       margin-bottom: 5px;
     }
 
@@ -221,7 +223,7 @@
     }
 
     .quote {
-      font-size: 14px;
+      font-size: 24px;
       font-style: italic;
       color: #333;
       margin-bottom: 20px;
@@ -247,8 +249,8 @@
     }
 
     .footer img {
-      width: 40px;
-      height: 40px;
+      width: 60px;
+      height: 60px;
       border-radius: 50%;
       object-fit: cover;
       border: 2px solid transparent;
@@ -265,8 +267,8 @@
       color: white;
       border: none;
       border-radius: 50%;
-      width: 40px;
-      height: 40px;
+      width: 50px;
+      height: 50px;
       font-size: 20px;
       cursor: pointer;
       transition: background-color 0.3s ease;
@@ -274,3 +276,5 @@
 
     .arrow-btn:hover {
       background-color: #8939dc;}
+
+      
